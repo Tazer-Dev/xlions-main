@@ -17,4 +17,4 @@ async def on_member_join(member):
     Welcome = get_channel("506482053810749450")
     await bot.send_message(Welcome, "Welcome " + member.mention)
 
-bot.run("8t2NS66ru1AGF4DOdh2VDePAB2GzDDXE")
+bot.run("NTA2NDc4OTQ2MDkxNTMyMzEx.Dri0Bg.dx0F3hplHGdKRzZGFY05hZGjO04")
